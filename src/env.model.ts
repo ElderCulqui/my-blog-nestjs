@@ -7,4 +7,5 @@ export interface Env {
     USER_DB: string;
     PASSWORD_DB: string;
     NAME_DB: string;
+    JWT_SECRET: string;
 }
