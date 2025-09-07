@@ -8,4 +8,5 @@ export interface Env {
     PASSWORD_DB: string;
     NAME_DB: string;
     JWT_SECRET: string;
+    OPENAI_API_KEY: string;
 }
